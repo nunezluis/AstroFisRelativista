@@ -6,7 +6,7 @@ Este es el repositorio de códigos, artículos, presentaciones y referencia del 
 + Universidad Sergio Arboleda (Colombia)
 + Universidad Industrial de Santander (Colombia)
 
-Iniciamos con la idea de aplicar el formalismo de los escalares de estructura expuesto en 
+Esta red la iniciamos con la idea de aplicar el formalismo de los escalares de estructura expuesto en 
 Ospino, J., Hernández-Pastora, J. L., & Núñez, L. A. (2017, March). [An equivalent system of einstein equations](https://iopscience.iop.org/article/10.1088/1742-6596/831/1/012011/pdf). In Journal of Physics: Conference Series (Vol. 831, No. 1, p. 012011). IOP Publishing.
 
 Este formalismo ha mostrado su versatilidad en un par de casos
