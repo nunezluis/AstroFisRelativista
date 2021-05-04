@@ -1,4 +1,5 @@
-# Repositorio de Seminario de la Red Hispana de Astrofísica Relativista
+# Repositorio de Seminario de 
+# la Red Hispana de Astrofísica Relativista
 Este es el repositorio de códigos, artículos, presentaciones y referencia del Seminario de Astrofísica Relativista entre 
 + Universidad de Salamanca (España)
 + Universidad Nacional Mayor de San Marcos (Perú)
